@@ -1,9 +1,5 @@
 import java.util.Scanner;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Collection;
-
 public class Testovoe_Sergeev3
 {
    public static void main (String[] args)

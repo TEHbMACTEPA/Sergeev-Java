@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Collection;
 /**
  * Write a description of class Lesson1 here.
  * 

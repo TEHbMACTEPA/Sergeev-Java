@@ -1,15 +1,11 @@
 import java.util.Scanner;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Collection;
-
 public class Testovoe_Sergeev2
 {
    public static void main (String[] args)
    {
-    int[] stroka1 = new int[3];
-    int[] stroka2 = new int[3];
+    int[] stroka1 = new int[1];
+    int[] stroka2 = new int[1];
  
     Scanner input = new Scanner (System.in);
 
@@ -29,7 +25,7 @@ public class Testovoe_Sergeev2
        
     for(int i = 0; i < stroka1.length; i++)
     if(stroka1[i] == stroka2[i]) {
-        System.out.println("+" + stroka1[i]); 
+        System.out.println("Строки совпадают"); 
     }
 
     else {
